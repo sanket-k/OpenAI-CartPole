@@ -1,12 +1,7 @@
 # OpenAI-CartPole
 ## Getting started
-'''
-git clone https://github.com/openai/gym
-cd gym
-pip install -e .
-'''
 ```
-git status
-git add
-git commit
+  git clone https://github.com/openai/gym
+  cd gym
+  pip install -e .
 ```
