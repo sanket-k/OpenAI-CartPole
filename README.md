@@ -5,3 +5,8 @@ git clone https://github.com/openai/gym
 cd gym
 pip install -e .
 '''
+```
+git status
+git add
+git commit
+```
